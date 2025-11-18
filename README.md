@@ -56,14 +56,14 @@ http://localhost:5173/
 
 # 🚀 Production Build & Deployment
 npm run build
-
+```
 Deploy dist/ folder to:
 Vercel (recommended)
 Netlify
 GitHub Pages
 Any static hosting service
 
-#📂 Project Structure
+## 📂 Project Structure
 src/
  ├─ utils/
  │   ├─ exportPdf.js
@@ -73,7 +73,7 @@ src/
  ├─ main.jsx
 └─ index.css
 
-#✨ What You Can Generate
+## ✨ What You Can Generate
 Business-ready templates like:
 Salary datasheets
 Attendance sheets
@@ -82,7 +82,7 @@ Inventory logs
 General table forms for businesses
 
 
-#🧩 Future Enhancements
+## 🧩 Future Enhancements
 Planned improvements:
 Add company logo to exported files
 Save and reuse template structures
@@ -90,7 +90,7 @@ Editable preview table
 Confetti success animation
 Light/Dark theme toggle
 
-#👤 Author
+## 👤 Author
 
 Made by Vyshnav
 MCA Student & Passionate Web Developer
