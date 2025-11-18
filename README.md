@@ -64,6 +64,7 @@ GitHub Pages
 Any static hosting service
 
 ## 📂 Project Structure
+```bash
 src/
  ├─ utils/
  │   ├─ exportPdf.js
@@ -72,7 +73,7 @@ src/
  ├─ App.jsx
  ├─ main.jsx
 └─ index.css
-
+```
 ## ✨ What You Can Generate
 Business-ready templates like:
 Salary datasheets
